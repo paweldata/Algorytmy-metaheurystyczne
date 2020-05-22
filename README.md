@@ -11,4 +11,10 @@ Rozwiązania zadań z kursu Algorytmy i struktury danych na kierunku informatyka
 #### Symulowane wyżarzanie
 - Minimalizacja funkcji
 - Znajdowanie podobnej macierzy
-- Minimalizacja drogi po kracie Z^2 
+- Minimalizacja drogi po kracie Z^2
+
+### Lista 3
+#### Algorytmy populacyjne
+- Minimalizacja funkcji
+- Znajdowanie najbardziej punktowanych słów
+- Minimalizacja drogi po kracie Z^2
